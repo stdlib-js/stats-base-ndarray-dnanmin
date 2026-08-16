@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`1891207`](https://github.com/stdlib-js/stdlib/commit/18912078701a4721bde196f1f54c10974595944f) - **docs:** fix default value documentation [(#14325)](https://github.com/stdlib-js/stdlib/pull/14325) _(by Philipp Burckhardt, Athan Reines)_
 -   [`0222395`](https://github.com/stdlib-js/stdlib/commit/022239515f42e0ca8d29fc80a8209524fe6ad0e4) - **feat:** add C implementation for `stats/base/ndarray/dnanmin` [(#14297)](https://github.com/stdlib-js/stdlib/pull/14297) _(by Ujjwal Verma, Athan Reines)_
 -   [`0f24d0d`](https://github.com/stdlib-js/stdlib/commit/0f24d0d9f742c471f083ad6c00df814e05053d12) - **docs:** update descriptions and comments [(#13451)](https://github.com/stdlib-js/stdlib/pull/13451) _(by Philipp Burckhardt)_
 -   [`46ec186`](https://github.com/stdlib-js/stdlib/commit/46ec186fcbd6df60f64a58f504b661a63bc5cd47) - **docs:** update description _(by Athan Reines)_
